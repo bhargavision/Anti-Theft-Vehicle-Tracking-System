@@ -40,10 +40,6 @@ Connecting wires & breadboard
    Receives data from Arduino/other ESPs.  
    Activates buzzer if data is not received for a set time (security alert).  
 
-3. `AntiTheft_Keychain.ino`  
-   Runs on ESP8266 (with the driver).  
-   Listens for alerts broadcast by the vehicle unit.  
-   Activates buzzer to notify the driver of theft or tampering.  
 
 ---
 
